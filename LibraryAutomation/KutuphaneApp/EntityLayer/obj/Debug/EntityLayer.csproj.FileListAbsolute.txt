@@ -1,0 +1,5 @@
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\EntityLayer\obj\Debug\EntityLayer.pdb

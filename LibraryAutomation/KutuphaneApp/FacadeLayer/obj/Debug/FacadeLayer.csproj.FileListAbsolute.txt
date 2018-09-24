@@ -1,0 +1,7 @@
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\obj\Debug\FacadeLayer.csprojResolveAssemblyReference.cache
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\ebim\documents\visual studio 2015\Projects\EntityLayer\FacadeLayer\obj\Debug\FacadeLayer.pdb
